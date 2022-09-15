@@ -18,10 +18,10 @@ Repositório criado para avaliação da atividade proposta em sala de aula.
 # 2 - Descrição dos casos de uso
   ## Rquisito 1:
    * Atores:
-      Gerente de TI - Responsável por inserir novos funcionários/administradores   
-      Funcionário/ADM - Responsavél por cadastrar novos clientes
+      1. Gerente de TI - Responsável por inserir novos funcionários/administradores   
+      2. Funcionário/ADM - Responsavél por cadastrar novos clientes
    * Descrição sucinta:
-      Cadastrar todos os novos clientes no sistema distinguindo seu tipo (PF e PJ)
+      1. Cadastrar todos os novos clientes no sistema distinguindo seu tipo (PF e PJ)
    * Fluxo pricipal:
       1. O ator devidamente logado no sistema, acessa a parte respectiva de cadastro de cliente.
       2. O sistema apresenta a tela de cadastro com os campos a serem preenchidos caso o ator tenha permissão.
@@ -29,10 +29,10 @@ Repositório criado para avaliação da atividade proposta em sala de aula.
       4. O sistema por fim faz a gravação dos dados do cliente na base de dados e emite uma mensagem de confirmação
   ## Requisito 2:
    * Atores:
-      Gerente de TI - Responsável por inserir novos funcionários/administradores   
-      Funcionário/ADM - Responsavél por incluir contrato vinculado a um cliente
+      1. Gerente de TI - Responsável por inserir novos funcionários/administradores   
+      2. Funcionário/ADM - Responsavél por incluir contrato vinculado a um cliente
    * Descrição sucinta:
-      Incluir contrato a um respectivo cliente.
+      1. Incluir contrato a um respectivo cliente.
    * Fluxo pricipal:
       1. O ator devidamente logado no sistema, acessa a parte respectiva de contratos e acessa a parte de incluir um novo contrato.
       2. O sistema apresenta a tela para a criação do contrato com os campos a serem preenchidos caso o ator tenha permissão.
