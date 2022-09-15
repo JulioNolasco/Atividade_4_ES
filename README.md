@@ -11,9 +11,9 @@ Repositório criado para avaliação da atividade proposta em sala de aula.
  
  
 # 1 - Definição dos requisitos
-  Requisitos Funcionais
-    1. Efetuar cadastro de cliente
-    2. Incluir contrato
+   * Requisitos Funcionais:
+      1. Efetuar cadastro de cliente
+      2. Incluir contrato
 
 # 2 - Descrição dos casos de uso
   ## Rquisito 1:
