@@ -52,7 +52,7 @@ Repositório criado para avaliação da atividade proposta em sala de aula.
 
   ## Requisito 2 - Incluir contrato:
   
-   ![image](https://user-images.githubusercontent.com/47585001/190308161-96acdef1-d9a9-47b7-a530-ce413a9294b1.png)
+   ![image](https://user-images.githubusercontent.com/47585001/190309214-f694e73b-9f51-4ef5-967c-a833b282569a.png)
 
     
     
