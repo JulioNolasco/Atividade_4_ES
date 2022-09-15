@@ -19,7 +19,7 @@ Repositório criado para avaliação da atividade proposta em sala de aula.
   ## Rquisito 1:
    * Atores:
       1. Gerente de TI - Responsável por inserir novos funcionários/administradores   
-      2. Funcionário/ADM - Responsavél por cadastrar novos clientes
+      2. Funcionário/ADM - Responsável por cadastrar novos clientes
    * Descrição sucinta:
       1. Cadastrar todos os novos clientes no sistema distinguindo seu tipo (PF e PJ)
    * Fluxo pricipal:
@@ -30,7 +30,7 @@ Repositório criado para avaliação da atividade proposta em sala de aula.
   ## Requisito 2:
    * Atores:
       1. Gerente de TI - Responsável por inserir novos funcionários/administradores   
-      2. Funcionário/ADM - Responsavél por incluir contrato vinculado a um cliente
+      2. Funcionário/ADM - Responsável por incluir contrato vinculado a um cliente
    * Descrição sucinta:
       1. Incluir contrato a um respectivo cliente.
    * Fluxo pricipal:
@@ -41,9 +41,9 @@ Repositório criado para avaliação da atividade proposta em sala de aula.
 
 # 3 - Descrição do User Storie para os requisitos:
   ## Requisito 1: Cadastro Cliente
-   * Como funcionário eu quero cadastrar um novo cliente, para isso eu devo estar logado e ter as respectivas permissoẽs para efetuar essa ação
+   * Como funcionário eu quero cadastrar um novo cliente, para isso eu devo estar logado e ter as respectivas permissões para efetuar essa ação
   ## Requisito 2: Incluir contrato
-   * Como funcionário eu quero incluir um novo contrato, para isso eu devo estar logado, ter as respectivas permissoẽs e o cliente vinculado a esse contrato deve estar ativo no sistema para eu efetuar essa ação
+   * Como funcionário eu quero incluir um novo contrato, para isso eu devo estar logado, ter as respectivas permisses e o cliente vinculado a esse contrato deve estar ativo no sistema para eu efetuar essa ação
   
 # 4 - Protótipo das telas de cada um dos requistos:
   ## Requisito 1 - Cadastro cliente:
