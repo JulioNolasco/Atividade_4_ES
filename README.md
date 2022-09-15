@@ -7,13 +7,13 @@ Repositório criado para avaliação da atividade proposta em sala de aula.
   3. Descrever User Storie para os 2 requisitos
   4. Fazer o protótipo da tela para cada um dos requisitos
  
- **Sistema de controle para provedores de internet**
+ # Sistema de controle para provedores de internet
  
  
 # 1 - Definição dos requisitos
   Requisitos Funcionais
-    1- Efetuar cadastro de cliente
-    2- Incluir contrato
+    1. Efetuar cadastro de cliente
+    2. Incluir contrato
 
 # 2 - Descrição dos casos de uso
   ## Rquisito 1:
