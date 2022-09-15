@@ -17,7 +17,7 @@ Repositório criado para avaliação da atividade proposta em sala de aula.
 
 # 2 - Descrição dos casos de uso
   ## Rquisito 1:
-   * Atores: 
+   * Atores:
       Gerente de TI - Responsável por inserir novos funcionários/administradores   
       Funcionário/ADM - Responsavél por cadastrar novos clientes
    * Descrição sucinta:
